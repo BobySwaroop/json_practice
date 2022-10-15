@@ -1,0 +1,27 @@
+[{
+    "name":"boby",
+    "gender":"male",
+    "designation":"php intern"
+    
+},
+{
+    "name":"shobhit",
+    "gender":"male",
+    "designation":"php intern"
+},
+{
+    "name":"sanjeev",
+    "gender":"male",
+    "designation":"php intern"
+},
+{
+    "name":"usha",
+    "gender":"female",
+    "designation":"php intern"
+},
+{
+    "name":"aftab alam",
+    "gender":"male",
+    "designation":"cloud engineer"
+}
+]
